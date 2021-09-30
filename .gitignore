@@ -1,0 +1,8 @@
+# Text files and notes
+*.txt
+
+# Notes
+notes
+
+# Node Packages
+npm
