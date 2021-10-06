@@ -1,8 +1,6 @@
-# Text files and notes
-*.txt
+### Git Ignore ###
 
 # Notes
-notes
+notes/
 
 # Node Packages
-npm
